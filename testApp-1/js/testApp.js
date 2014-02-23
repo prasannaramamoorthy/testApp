@@ -2,7 +2,7 @@
 function TestController($scope){
     $scope.items = [
         {
-            text: 'First App Development by Prasanna'
+            text: 'First App for PrimaryInfo by Prasanna'
         }
     ];
     
